@@ -252,9 +252,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iMap/Preview Content\"";
-				DEVELOPMENT_TEAM = TE487R478V;
+				DEVELOPMENT_TEAM = 7PEN5STQE7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We need your location to provide continuous updates and enhance your experience, even when the app is not in the foreground.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need the location to determine service";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -283,9 +284,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iMap/Preview Content\"";
-				DEVELOPMENT_TEAM = TE487R478V;
+				DEVELOPMENT_TEAM = 7PEN5STQE7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We need your location to provide continuous updates and enhance your experience, even when the app is not in the foreground.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need the location to determine service";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

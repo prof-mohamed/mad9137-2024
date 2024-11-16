@@ -41,7 +41,7 @@ struct ContentView: View {
     
     @State var selectedLocation: Location?
     
-    let locationManager = CLLocationManager()
+//    let locationManager = CLLocationManager()
     
     var body: some View {
         Map(initialPosition: initialPosition) {
@@ -81,7 +81,7 @@ struct ContentView: View {
         }
         .ignoresSafeArea()
         .onAppear() {
-            locationManager.requestWhenInUseAuthorization()
+//            locationManager.requestWhenInUseAuthorization()
         }
         .alert(
             "Selected Location",
